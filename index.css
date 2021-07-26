@@ -1,9 +1,36 @@
-.title{
+#p1{
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    right: 20x;
+    top: 0px;
 }
+
+#p2{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    left: 1150px;
+    top: -300px;
+}
+
 body{
     background-color: rgb(58, 58, 58);
+}
+
+#div1{
+    position: relative;
+    top: -10px;
+    left: -100px;
+    width: 200%;
+    height: 200px;
+    background-color:rgb(0, 0, 0);
+}
+
+#sus{
+    left:-130px;
+    top:-75px;
+    position: relative;
 }
 
 button{
@@ -11,5 +38,7 @@ button{
 
     color: white;
     border: rgb(35, 35, 214);
+    position: relative;
+    top: 10px;
 
 }

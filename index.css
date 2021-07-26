@@ -1,0 +1,15 @@
+.title{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgb(58, 58, 58);
+}
+
+button{
+    background-color: rgb(35, 35, 214);
+
+    color: white;
+    border: rgb(35, 35, 214);
+
+}
